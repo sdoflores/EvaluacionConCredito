@@ -1,0 +1,5 @@
+Este proyecto fue probado en:
+
+-google chrome version: 91.0.4472.114
+
+-Utilizando la libreria de Junit para los test
