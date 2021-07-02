@@ -1,3 +1,3 @@
-mv /var/www/chiringuito/ /home/Ubuntu/michangarrito/
+sudo mv ~/michangarrito/dist /var/www/
 
-cp -r /vas/www/michangarrito /home/Ubuntu/backups/michangarrito_2020-02-02
+sudo mv /var/www/michangarrito ~/backups/“michangarrito_$(date +”%F”)”
